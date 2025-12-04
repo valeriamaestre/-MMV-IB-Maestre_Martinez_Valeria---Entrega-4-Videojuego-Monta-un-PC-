@@ -1,0 +1,69 @@
+{
+	"name": "PlacaBase",
+	"plugin-id": "Sprite",
+	"sid": 722980636549583,
+	"isGlobal": false,
+	"editorNewInstanceIsReplica": true,
+	"instanceVariables": [],
+	"behaviorTypes": [
+		{
+			"behaviorId": "DragnDrop",
+			"name": "ArrastrarYSoltar",
+			"sid": 777956729050633
+		},
+		{
+			"behaviorId": "Pin",
+			"name": "Pegado",
+			"sid": 370324886897708
+		}
+	],
+	"effectTypes": [],
+	"animations": {
+		"items": [
+			{
+				"frames": [
+					{
+						"width": 753,
+						"height": 808,
+						"originX": 0.5,
+						"originY": 0.5,
+						"originalSource": "",
+						"exportFormat": "lossless",
+						"exportQuality": 0.8,
+						"fileType": "image/png",
+						"imageSpriteId": 8959695,
+						"collisionPoly": {
+							"points": [
+								0.163125,
+								0.145,
+								0.839375,
+								0.151875,
+								0.8475,
+								0.81625,
+								0.785625,
+								0.854375,
+								0.73125,
+								0.855,
+								0.170625,
+								0.85,
+								0.1475,
+								0.78875
+							]
+						},
+						"useCollisionPoly": true,
+						"duration": 1,
+						"tag": ""
+					}
+				],
+				"sid": 359627498167031,
+				"name": "Animation 1",
+				"isLooping": false,
+				"isPingPong": false,
+				"repeatCount": 1,
+				"repeatTo": 0,
+				"speed": 5
+			}
+		],
+		"subfolders": []
+	}
+}
