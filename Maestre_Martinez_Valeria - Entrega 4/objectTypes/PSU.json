@@ -1,0 +1,67 @@
+{
+	"name": "PSU",
+	"plugin-id": "Sprite",
+	"sid": 772745598656356,
+	"isGlobal": false,
+	"editorNewInstanceIsReplica": true,
+	"instanceVariables": [],
+	"behaviorTypes": [
+		{
+			"behaviorId": "DragnDrop",
+			"name": "ArrastrarYSoltar",
+			"sid": 835680907217118
+		},
+		{
+			"behaviorId": "Pin",
+			"name": "Pegado",
+			"sid": 537154685795217
+		}
+	],
+	"effectTypes": [],
+	"animations": {
+		"items": [
+			{
+				"frames": [
+					{
+						"width": 550,
+						"height": 343,
+						"originX": 0.5,
+						"originY": 0.5,
+						"originalSource": "",
+						"exportFormat": "lossless",
+						"exportQuality": 0.8,
+						"fileType": "image/png",
+						"imageSpriteId": 5160844,
+						"collisionPoly": {
+							"points": [
+								0.04909090909090909,
+								0,
+								0.7090909090909091,
+								0,
+								1,
+								0.27405247813411077,
+								0.9690909090909091,
+								0.8338192419825073,
+								0.025454545454545455,
+								0.8279883381924198,
+								0.02,
+								0.1457725947521866
+							]
+						},
+						"useCollisionPoly": true,
+						"duration": 1,
+						"tag": ""
+					}
+				],
+				"sid": 683966187692093,
+				"name": "Animation 1",
+				"isLooping": false,
+				"isPingPong": false,
+				"repeatCount": 1,
+				"repeatTo": 0,
+				"speed": 5
+			}
+		],
+		"subfolders": []
+	}
+}
