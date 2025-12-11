@@ -4,6 +4,7 @@ Este proyecto es un videojuego educativo creado en **Construct 3** para la asign
 **Informática Básica**.
 El objetivo del juego es que el jugador aprenda a identificar y colocar correctamente los
 componentes principales de un ordenador dentro de una torre ATX.
+puedes jugar el juego aqui: https://vmm1013aluubues.itch.io/entrega-3
 El juego incluye:
 - Menú de bienvenida con botón para iniciar la partida.
 - Mecánica de arrastrar y soltar componentes.
